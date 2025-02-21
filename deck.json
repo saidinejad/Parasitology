@@ -1,0 +1,830 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "c77bbb0d-f037-11ef-9ded-d4548b111f10",
+    "deck_config_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [],
+    "name": "Parasitology",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 991874920854447928,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1529952001305201627,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": "N4.L@20d5bf3",
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -8159597958868431343,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "دسته بندی انگل ها براساس محل قرار گیری<br>هرکدام موجب چه می شوند؟",
+                "ectoparasite: روی سطح / موجب ناراحتی infrastation&nbsp;<br>endoparasite: داخل بدن / موجب عفونت infection"
+            ],
+            "guid": "v:RAwnTbV<",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3 نوع همزیستی",
+                "همسفرگی commensalism: یکی سود و دیگری بی ضرر<br>همیاری mutualism: هر دو سود<br>انگلی parasitosis: یکی سود یکی ضرر"
+            ],
+            "guid": "y$|MQ7PsK~",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کاربرد commensal ها در پزشکی",
+                "بیماری زایی نمیکنند ولی میتونن شاخص بهداشتی باشند"
+            ],
+            "guid": "JzPsD*s5-j",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اکولوژی انگل چیست؟",
+                "میزبان"
+            ],
+            "guid": "P(S|/Tpuu<",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بیماری لشمانیوز احشایی در ایران همانند فرانسه موجب مرگ می شود",
+                "خیر در ایران موجب مرگ شده ولی در فرانسه خیر"
+            ],
+            "guid": "v?Y,L]KlUx",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو نوع انگل براساس نوع زندگی به همراه مثال",
+                "اجباری obligate: همواره در بدن میزبان / تریکوموناس واژینالیس<br>اختیاری facultative: چرخه زندگی در محیط برقراره / آمیب ها آزادزی مثل نگلیریا فاولری (مغزخوار) / خطرناک ترن"
+            ],
+            "guid": "Bf$)m5B5<`",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "زندگی انگلی از نظر میزبان به دو نوع تقسیم می شود:",
+                "monoxenous فقط یک نوع میزبان (کرمک)<br>heteroxenous انواع متفاوت میزبان (پلاسمودیوم فالسیپاروم)"
+            ],
+            "guid": "E-2Vd.j|`n",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تقسیم بندی میزبان ها",
+                "اصلی definitive: سیر جنسی(sporogony) طی می شود یا کرم بالغ دیده می شود<br>واسط intermediate<br><br>آسکاریس بالغ در انسان<br>کیست هیداتید نهایی(کرم بالغ) در سگ و واسط در انسان"
+            ],
+            "guid": "NL6RFqMTL)",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مراحل بلوغ کرم",
+                "L1 -&gt; L2 -&gt; L3 -&gt; L4 یا adult"
+            ],
+            "guid": "E2yOOR;&7A",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انواع تقسیم غیر جنسی",
+                "تقسیم دوتایی binary fission<br>تقسیم چندتایی : schiizogony / budding"
+            ],
+            "guid": "bu}.B2SHuO",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "حامل ناقل مخزن",
+                "حامل carrier:<br>سیستم ایمنی فعاله<br>میزان انگل کمه<br>فاقد علائم<br>(آمیبیاز)<br><br>ناقل vector:<br>انتقال انگل از میزبانی به میزبان دیگه (خودشم ممکنه میزبان باشه)<br>از مخزن به میزبان جدید<br><br>مخزن reservoir:<br>سیستم ایمنی فعال<br>میزان انگل زیاد<br>علائم کم<br>(لشمانیوز احشایی)"
+            ],
+            "guid": "Az^7Z^,]%/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is Zoonosis",
+                "زئونوز<br>بیماری های قابل انتقال با ناقل بین انسان و حیوان<br><br>لشمانیوز احشایی و پوستی"
+            ],
+            "guid": "FxF}*~Grp~",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انواع ناقل ها",
+                "مکانیکی vehicle: تغییری در انگل ایجاد نمی شود<br>مگس خانگی (موسکا دومستیکا)<br><br>ناقل بیولوژیکی: انگل در بدن ناقل تغییر می کند<br>پشه آنوفل (میزبان نهایی)"
+            ],
+            "guid": "H0ISCAB)DF",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "رابطه سازش با زندگی انگلی و موفقیت انگل",
+                "مستقیم"
+            ],
+            "guid": "v`?^E6mJU3",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انگل ها واکسن ندارن چرا؟",
+                "1. پیچیده ن فرار میکنن<br>2. بیماری فراموش شده ن neglected disease"
+            ],
+            "guid": "fQDL#T>.^d",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شاخص دالی DALY",
+                "یک بیماری چند سال فرد مبتلا را از جامعه میگیرد و هدر می دهد"
+            ],
+            "guid": "OuZ#(;!YDM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مصونیت نسبی یا همراه",
+                "سیستم ایمنی فعال میشه و انگلو محدود میکنه اما نمیتونه از بین ببره"
+            ],
+            "guid": "g!fx5Z|m,N",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انگلی که از دهان وارد می شود ولی از مقعد خارج نمی شود؟",
+                "کرم تیریشین"
+            ],
+            "guid": "Ijju_yWSp7",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انگلی که از جفت عبور میکند",
+                "توکسوپلاسما (در مراحل اول بارداری به سختی عبور میکنه ولی اگه بکنه اسیب شدیدتری میزنه)"
+            ],
+            "guid": "gas1(ZgS[O",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "بیشترین عامل انتقال یافته از طریق آمیزش چیست",
+                "تریکوموناس واژینالیس"
+            ],
+            "guid": "F}Y>;U0W?7",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "روش های تشخیص انگل در پزشکی",
+                "پارازیتولوژی (روش اصلی): با میکروسکوپ / بی کاربرد در تشخیص طبی به علت زمان طولانی<br>ایمونولوژیک: واکنش با انتی بادی<br>بیوشیمیایی: محصول خاصی که توسط پاتوژن وارد بدن شده<br>بیولوژی مولکولی: مبنا DNA"
+            ],
+            "guid": "K{s>W>i(wk",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تنها انگل شناسایی شده با روش پارازیتولوژی",
+                "تریکوموناس واژینالیس"
+            ],
+            "guid": "Qn9yLWn+$N",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "زیر فرمانرو subkingdom انگل ها",
+                "protozoa تک سلولی<br>metazoa پر سلولی<br>"
+            ],
+            "guid": "Jxvg_8Z@R7",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شاخه های protozoa",
+                "(مورفولوژی)<br>apicomplexa: قسمت راسی شامل اندامک ها (پلاسمودیوم فالسیپاره)<br>sarcomastigophora: انگل اجباری اسپور دارن<br>ciliophora: دارای مژک (پارامسی)<br>microspore: اجباری اسپور دار فرصت طلب (بعضی قارچا) در افراد دارای نقص ایمنی بیماری زان"
+            ],
+            "guid": "A2f}H3Dy}9",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شاخه های metazoa",
+                "platyhelminth کرم پهن<br>aschelminth کرم گرد یا استوانه ای (نماتودها: آسکاریس)<br>3<br>4<br>5"
+            ],
+            "guid": "|;uu#U1,~",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کلاس های کرم پهن platyhelminths",
+                "ترماتود: برگی شکل (فاسیولاهپتیکا)<br>سستودا: نواری شکل (تینا سولیوم و ساژیناتا"
+            ],
+            "guid": "B5NPT7g(*q",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "زیرشاخه های sarcomastigophora&nbsp;",
+                "sarcodina: آمیب ها -&gt; کیسه مانند<br>mastigophora: تاژک داران"
+            ],
+            "guid": "gjFd(w9a`g",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سرده یا جنس های sarcodina",
+                "انگل اجباری<br>entamoeba<br>endolimax<br>iodamoeba<br><br>آزادزی<br>achantomobea<br>Hartmannella<br>Balamuthia <br>Vahlkampfia<br>Naegleria"
+            ],
+            "guid": "ko-$92br]<",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "توده سیتوپلاسمیک در آمیب ها",
+                "اکتوپلاسم + اندوپلاسم (نوکلئوپلاسم نه)"
+            ],
+            "guid": "frV)Vr<|OL",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت اکتوپلاسم و اندوپلاسم",
+                "ماهیت شکل گیری و نوع پروتیین ها<br>پلیمریزه شدن در اندوپلاسم و دپلیمریزه شدن در اکتوپلاسم<br>اکتوپلاسم شفاف تر و متراکم تر&nbsp;<br>اندوپلاسم تیره تر و دارای پستی بلندی (اندامک)"
+            ],
+            "guid": "dkBaRFJV&C",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اسکلت سلولی در آمیب",
+                "ریز لوله<br>ریز رشته (اکتین و میوزین)<br>رشته های حد واسط"
+            ],
+            "guid": "f[@{]<Hn;R",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "نقش اکتوپلاسم و اندوپلاسم در امیب",
+                "اکتوپلاسم: مبادلات با محیط خارجی + حرکت و محافظت<br>اندوپلاسم: اعمال متابولیک"
+            ],
+            "guid": "P$Z/)85+)[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "غشای سلولی در امیب ها",
+                "برهنه هستند و اکتوپلاسم نقش غشا داره ولی در فرم کیستی دارای غشا می شوند"
+            ],
+            "guid": "cV*[R$O%i#",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آمیب ها توانایی فاگوسیتوز دارند",
+                "درسته"
+            ],
+            "guid": "jAqCpHeQpM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تئوری حرکتی پای کاذب آمیب ها چیست",
+                "تبدیل سل به ژل<br>سل = اندوپلاسم<br>ژل = اکتوپلاسم<br>تولید و تخریب اسکلت سلولی"
+            ],
+            "guid": "zo*ql2ULwo",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هسته آمیب ها .... است",
+                "وزیکولار"
+            ],
+            "guid": "E$FNd~$jp7",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کاریوزوم چیست",
+                "هستکی کروماتینی که در مرکز هسته ی آمیب قرار دارد و با فیبریل هایی به غشای هسته متصل شده است"
+            ],
+            "guid": "tMpyUzt8r9",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "معیار تشخیص گونه های آمیبی",
+                "محل کاریوزوم<br>وجود کروماتین روی فیبریل ها<br>وجود کروماتین زیر غشا هسته"
+            ],
+            "guid": "L{|$Ew(3mw",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "گونه های entamoeba",
+                "E. histolytica<br>E. dispar<br>E. coli<br>E. gingivalis<br>E. moshkov"
+            ],
+            "guid": "NKqxgk+$V`",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سیر زندگی E. histolytica",
+                "به صورت کیست وارد دهان<br>در معده دیواره کیست تخریب شده -&gt; متاکیست(8 هسته ای) -&gt; تروفوییت متاکیست -&gt; تروفوزوییت<br>در انتهای روده باریک تروفوزوییت به کیست<br>دفع<br>موجب عفونت روده و اسهال خونی"
+            ],
+            "guid": "Q;5YYP8]No",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تغذیه ی E. histolytica",
+                "باکتری ها و مواد غذایی مانده واکوئل گلیکوژنی (فرم مینوتا)<br>گلبول قرمز (هماتوفاژ یا مگنا)"
+            ],
+            "guid": "EQGlO=}p,T",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پای کاذب E. histolytica",
+                "هنگام تهاجم<br>انگشتی شکل و گرد"
+            ],
+            "guid": "HhE5ndT`b4",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "هسته ی E. histolytica",
+                "کاریوزوم مرکزی و فیبریل های غیر کروماتینه<br>کروماتین در زیر غشا"
+            ],
+            "guid": "k=AMAqOqA$",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فرم قابل انتقال E. histolytica<br>فرم بیماری زا<br>فرم قابل تشخیص",
+                "کیست 4 هسته ای<br>تروفوزوییت<br>تروفوزوییت یا کیست در مدفوع"
+            ],
+            "guid": "jZ^;|S-SpE",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "E. histolytica با چه روش هایی به سلول هدف متصل میشه؟",
+                "لکتین کانکاناوالین A<br>بار الکتریکی سطحی خنثی (برخلاف سلول بدن که منفیه)"
+            ],
+            "guid": "dF2ApSto#F",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "E. histolytica دارای اثر سایتوپاتیک است",
+                "بله"
+            ],
+            "guid": "B8B=^Gm0u=",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "E.histolytica توانایی تولید لزیوم داره",
+                "بله<br>نوعی زخم"
+            ],
+            "guid": "fVCVE3q(JG",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "الگوی ...... E.histolytica با غیرپاتوژن ها متفاوت است.",
+                "ایزوآنزیمی"
+            ],
+            "guid": "lItOG|B>pM",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ویژگی هایی در میزبان که باعث بیماری زایی می شوند:",
+                "سوتغذیه<br>همجنسگرایی<br>الکهلیسم<br>الودگی به انگل دیگه<br>میزان بالای فلور باکتریایی روده<br>سیستم ایمنی فرد"
+            ],
+            "guid": "kPy]0n9!Ul",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علائم آمیبیاز روده ای",
+                "نفخ شکم<br>اسهال<br>دیسانتری<br>کولیت بدون دیسانتری<br>آمبوما<br>آپاندیسیت آمیبی<br>سوراخ شدن روده<br>کولیت پس از دیسانتری<br>تنگی یا ضیق روده<br>خونریزی<br>زخم منتشر در مخاط روده (زخم فلاسکی)<br>احساس دفع مداوم"
+            ],
+            "guid": "cc!A8Wvj/-",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فرم تیپیک آمیبیاز روده ای",
+                "دیسانتری یا اسهال خونی"
+            ],
+            "guid": "n?55x2j2<D",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علامت آمیبیاز مزمن",
+                "کولیت بدون دیسانتری"
+            ],
+            "guid": "Ge#xX)XzVz",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آمبوما چیست",
+                "تومور کاذب آمیبی = تکرار حمله ی آمیب به روده -&gt; تومور ندولار خوش خیم<br>"
+            ],
+            "guid": "x%q<,T)!|I",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آپاندیسیت آمیبی",
+                "عفونت آپاندیس به علت آمیب<br>قبل از جراحی باید درمان ضد آمیبی انجام شود"
+            ],
+            "guid": "QkL@8Hu[g$",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سوراخ شدن روده توسط آمیب",
+                "اگر آمیب لایه عضلانی رو هم هضم کنه =&gt; پریتونیت =&gt; مرگ"
+            ],
+            "guid": "f3y#|^<MR[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کولیت پس از دیسانتری",
+                "دیسانتری بهبود یافته ولی آنتی ژن های آمیب همچنان حضور دارند<br>تشخیص فقط با سرولوژی"
+            ],
+            "guid": "NZVhQ1rAPS",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تنگی یا ضیق روده",
+                "آمیب با تغذیه از بافت روده آنزیم های سمی آزاد میکند که تعادل اسمزی سلول ها را از بین میبرند و موجب تورم سلول ها می شود"
+            ],
+            "guid": "Ch]zjS/8t=",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تشخیص آمیبیاز روده ای",
+                "پارازیتولوژی"
+            ],
+            "guid": "H[RP3F8I(k",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آمیبیاز خارج روده ای حتما ..... به داخل روده ای",
+                "ثانویه"
+            ],
+            "guid": "g,k[{7:^=",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام نوع آمیبیاز خارج روده ای شایع تر است؟",
+                "کبدی مخصوصا لوب راست"
+            ],
+            "guid": "rj,LHXi^A^",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آمیبیاز حاد غیر چرکی کبد",
+                "آمیبی در کبد نیست<br>کبد برای پاسخ به آمیبیاز روده ای تحریک شده است"
+            ],
+            "guid": "jwwnaNp:P[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آبسه های آمیبی کبد<br>مراحل رشد",
+                "آمیب به کبد میرسد و بافت کبد را میخورد<br>ممکنه علائم قبلی نداشته باشد<br>در ابتدا ماده ژلاتینی زرد سپس مایع شکلاتی بدون بو<br>آمیب ها به دیواره آبسه متصل اند."
+            ],
+            "guid": "vY1z|aV&N?",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تشخیص افتراقی مالاریا و آمیبیاز کبدی",
+                "(تب و لرز نا منظم)<br>آپاندیسیت<br>حضوری آمیب در روده"
+            ],
+            "guid": "yl;Iv>If2D",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آمیبیاز های خارج روده ای به جز کبد:",
+                "ریه (لوب راست)<br>پریکارد قلب<br>مغز<br>پوست<br>دستگاه ادراری تناسلی"
+            ],
+            "guid": "EyKpEhb5|=",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آمیبیاز ریه اغلب ثانویه به آمیبیاز ..... است",
+                "کبد"
+            ],
+            "guid": "kf&d.qh-L-",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اگر آبسه ها داخل برونش ها باز شوند ......",
+                "خلط زرد مایل به صورتی خارج همراه سلول کبدی میشود"
+            ],
+            "guid": "z2r.mj;]6m",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سرعت پیشرفت آمیبیاز در کدام اندام بیشتر است؟",
+                "مغز"
+            ],
+            "guid": "E?K)r4J#s~",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
