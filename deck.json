@@ -4503,6 +4503,46 @@
             "guid": "ELM9I[!)DM",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "...... بیشتر در کودکان مهدکودکی شایع است",
+                "ژیاردیا"
+            ],
+            "guid": "la0(%kkl*F",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "میزان شیوع ژیاردیا در ایران",
+                "۱۶ درصد"
+            ],
+            "guid": "O%OJOBz~D8",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در هفته اول ابتلا به آمیبیاز روش تشخیصی؟",
+                "تصویربرداری <br>چون انتی بادی کمه و از روده هم خارج شده"
+            ],
+            "guid": "K2t3L)%,BN",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "جنس ....... دارای detaching factor یا CDF است",
+                "تریکوموناس"
+            ],
+            "guid": "g-@kvJw{yt",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
         }
     ],
     "reviewLimit": null,
